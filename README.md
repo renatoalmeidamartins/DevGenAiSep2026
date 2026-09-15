@@ -33,3 +33,5 @@
 - [Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference](https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/)
 - [DocumentSource](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_DocumentSource.html), can use an s3Location
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [What is a Vector Database?](https://aws.amazon.com/what-is/vector-databases/)
