@@ -16,3 +16,4 @@
 - When using the InvokeModel API (or the InvokeModelWithResponseStream) your request needs to follow the exact convention of the model provider. Examples below:
   - [Anthropic models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-anthropic-claude-messages-request-response.html)
   - [Nova models](https://docs.aws.amazon.com/nova/latest/userguide/complete-request-schema.html)
+- The "model-agnostic" way to call models in Bedrock is through the [Converse](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html) and [ConverseStream](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_ConverseStream.html) APIs. Detailed documentation: [Inference using Converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html)
