@@ -13,3 +13,6 @@
 - [What are transformers in Artificial Intelligence](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
 - [Influence response generation with inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html)
+- When using the InvokeModel API (or the InvokeModelWithResponseStream) your request needs to follow the exact convention of the model provider. Examples below:
+  - [Anthropic models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-anthropic-claude-messages-request-response.html)
+  - [Nova models](https://docs.aws.amazon.com/nova/latest/userguide/complete-request-schema.html)
