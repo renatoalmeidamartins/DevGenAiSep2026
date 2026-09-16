@@ -77,5 +77,7 @@
 - Reference MCP servers
   - [Valid list from the official MCP repo](https://github.com/modelcontextprotocol/servers)
   - [An old commit, when they still tried to maitain a list of third-party servers](https://github.com/modelcontextprotocol/servers/tree/bae042b4f213e72a3e1e8b9e813f960167a2e019)
-  - [MCP registry](https://github.com/modelcontextprotocol/registry)
-  - [MCP registry as a feature of Agentcore](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+- [MCP registry](https://github.com/modelcontextprotocol/registry)
+- [MCP registry as a feature of Agentcore](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+- [A2A - agent 2 agent protocol announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)  
+- [Agent2Agent (A2A) Protocol repo](https://github.com/a2aproject/a2a)
