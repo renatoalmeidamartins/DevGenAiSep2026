@@ -3,8 +3,13 @@
 ## Class links
 - [Access to lab and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%23tUFCX5SQuYdyjzrzgwXLY7)
 - [Student registration URL](https://myclass.skillbuilder.aws/course/1f0f69d8-94ae-4f08-ae85-85fd82cea63a?orgId=0a50fc99-8a37-4e58-a68a-0ae166f23ba0)
-- [MyClass](https://myclass.skillbuilder.aws/), after course is marked complete (beginning of the afternoon in the last day), you can get the completion certificate and fill the **evaluation survey** from here.
+- [MyClass](https://myclass.skillbuilder.aws/), after course is marked complete (beginning of the afternoon in the last day), you can get the completion certificate and fill the **evaluation survey** from here.-
+- [GenAI developer professional exam](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
 
+## My Contacs 
+- renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+- 
 ## Companionn content
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [What is machine learning](https://aws.amazon.com/what-is/machine-learning/)
