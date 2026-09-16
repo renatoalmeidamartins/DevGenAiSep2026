@@ -82,3 +82,4 @@
 - [A2A - agent 2 agent protocol announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)  
 - [Agent2Agent (A2A) Protocol repo](https://github.com/a2aproject/a2a)
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Bedrock Agentcore overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
