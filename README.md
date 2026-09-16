@@ -87,3 +87,4 @@
 - [Get started with Amazon Bedrock AgentCore Runtime direct code deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
 - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Built-in strategies for long-term memory retention](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- [Agentcore Policy -  Cedar language](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
