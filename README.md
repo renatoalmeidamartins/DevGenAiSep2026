@@ -72,3 +72,4 @@
   - [OWASP top 10 for LLM](https://genai.owasp.org/llm-top-10/)
 - [Nova Act Announcement](https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/)
 - [Nova Act playground](https://nova.amazon.com/act)
+- [What is agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
