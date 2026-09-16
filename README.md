@@ -9,7 +9,8 @@
 ## My Contacs 
 - renatoalmeidamartins@gmail.com
 - [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
-- 
+
+
 ## Companionn content
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [What is machine learning](https://aws.amazon.com/what-is/machine-learning/)
