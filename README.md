@@ -81,3 +81,4 @@
 - [MCP registry as a feature of Agentcore](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
 - [A2A - agent 2 agent protocol announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)  
 - [Agent2Agent (A2A) Protocol repo](https://github.com/a2aproject/a2a)
+- [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
