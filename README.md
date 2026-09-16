@@ -43,3 +43,15 @@
 - [How content chunking works for knowledge bases](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-chunking.html)
 - [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html)
 - [LangChain integrations](https://docs.langchain.com/oss/python/integrations/providers/overview)
+- A few Agentic/LLM open-source frameworks
+  - [CrewAI quickstart](https://docs.crewai.com/v1.15.20/en/quickstart)
+  - Strands SDK
+    - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+    - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+    - [Strands Agents Tools](https://github.com/strands-agents/tools)
+    - Langchain/LangGraph
+      - [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
+      - [LangGraph agentic loop example](https://docs.langchain.com/oss/python/langgraph/agentic-rag)
+    - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel
+   
+= [Agentcore CLI](https://github.com/aws/agentcore-cli)
