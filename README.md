@@ -64,3 +64,9 @@
 - [Built-in metric evaluator prompts for model-as-a-judge evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
 - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-prompt-datasets.html)
 - [Using latency-optimized versions of models](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+- Responsible AI
+  - [Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1](https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-systems-with-automated-reasoning-on-amazon-bedrock-part-1/)
+  - [Create your Automated Reasoning policy](https://docs.aws.amazon.com/bedrock/latest/userguide/create-automated-reasoning-policy.html)
+  - [Catalogue of system pormpts, possibly obtained through jailbreaking](https://github.com/asgeirtj/system_prompts_leaks)
+  - [Tool for model jailbreaking](https://github.com/cyberark/fuzzyai)
+  - [OWASP top 10 for LLM](https://genai.owasp.org/llm-top-10/)
