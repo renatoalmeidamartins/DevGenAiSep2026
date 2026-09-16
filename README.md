@@ -84,3 +84,4 @@
 - [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Bedrock Agentcore overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 - [Agentcore SDK](https://github.com/aws/bedrock-agentcore-sdk-python)
+- [Get started with Amazon Bedrock AgentCore Runtime direct code deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
