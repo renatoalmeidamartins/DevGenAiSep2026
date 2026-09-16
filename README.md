@@ -73,3 +73,7 @@
 - [Nova Act Announcement](https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/)
 - [Nova Act playground](https://nova.amazon.com/act)
 - [What is agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- Reference MCP servers
+  - [Valid list from the official MCP repo](https://github.com/modelcontextprotocol/servers)
+  - [An old commit, when they still tried to maitain a list of third-party servers](https://github.com/modelcontextprotocol/servers/tree/bae042b4f213e72a3e1e8b9e813f960167a2e019)
