@@ -54,4 +54,4 @@
       - [LangGraph agentic loop example](https://docs.langchain.com/oss/python/langgraph/agentic-rag)
     - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel
    
-= [Agentcore CLI](https://github.com/aws/agentcore-cli)
+- [Agentcore CLI](https://github.com/aws/agentcore-cli)
