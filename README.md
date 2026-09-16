@@ -52,6 +52,8 @@
     - Langchain/LangGraph
       - [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
       - [LangGraph agentic loop example](https://docs.langchain.com/oss/python/langgraph/agentic-rag)
-    - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel
-   
+    - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel   
 - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+- Prompt routing in Bedrock
+  - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
+  - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
