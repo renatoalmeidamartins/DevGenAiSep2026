@@ -61,4 +61,6 @@
     - [Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)
     - [Ragas](https://docs.ragas.io/en/stable/)
     - [Ragas - List of available metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
-  - [Built-in metric evaluator prompts for model-as-a-judge evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+- [Built-in metric evaluator prompts for model-as-a-judge evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+- [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-prompt-datasets.html)
+- [Using latency-optimized versions of models](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
