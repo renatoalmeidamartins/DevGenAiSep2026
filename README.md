@@ -57,3 +57,7 @@
 - Prompt routing in Bedrock
   - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
   - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+  - Evaluating RAG
+    - [Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)
+    - [Ragas](https://docs.ragas.io/en/stable/)
+    - [Ragas - List of available metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
