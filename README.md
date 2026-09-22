@@ -55,10 +55,10 @@
     - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
     - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
     - [Strands Agents Tools](https://github.com/strands-agents/tools)
-    - Langchain/LangGraph
-      - [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
-      - [LangGraph agentic loop example](https://docs.langchain.com/oss/python/langgraph/agentic-rag)
-    - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel   
+  - Langchain/LangGraph
+    - [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
+    - [LangGraph agentic loop example](https://docs.langchain.com/oss/python/langgraph/agentic-rag)
+  - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), formerly called Semantic Kernel   
 - [Agentcore CLI](https://github.com/aws/agentcore-cli)
 - Prompt routing in Bedrock
   - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
