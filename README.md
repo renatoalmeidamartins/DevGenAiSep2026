@@ -11,7 +11,7 @@
 - [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
 
 
-## Companionn content
+## Companion content
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [What is machine learning](https://aws.amazon.com/what-is/machine-learning/)
 - [What is Generative AI?](https://aws.amazon.com/what-is/generative-ai/)
@@ -94,4 +94,4 @@
 - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Built-in strategies for long-term memory retention](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [Agentcore Policy -  Cedar language](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
-- [Regpo full of samples for working with Agentcore](https://github.com/awslabs/agentcore-samples/tree/main)
+- [Repo full of samples for working with Agentcore](https://github.com/awslabs/agentcore-samples/tree/main)
